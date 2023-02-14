@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(182, 137, 25);
+  font-size: 20px;
+  text-align: center;
+  margin: 50px;
+}
+div {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
